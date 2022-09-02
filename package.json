@@ -1,0 +1,19 @@
+{
+  "name": "independent-project-1",
+  "version": "1.0.0",
+  "description": "About My Project",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatiMoringa/Independent-project-1.git"
+  },
+  "author": "lewis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatiMoringa/Independent-project-1/issues"
+  },
+  "homepage": "https://github.com/MatiMoringa/Independent-project-1#readme"
+}
