@@ -29,7 +29,7 @@ licence
 copyright (c) 2022   [click to view licence](https://github.com/MatiMoringa/Independent-project-1)
 
 
-Figma
-Figma login   [Click to View my design](https://www.figma.com/file/uWF0i2EdkLzeRyO65kKFgL/Untitled?node-id=5%3A2)
+Heroku
+login   [Click to View my design](https://remotequiz.herokuapp.com/)
 
 
