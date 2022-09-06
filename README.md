@@ -69,14 +69,28 @@ Please adhere to this project's `code of conduct`.
 
 * JAVASCRIPT
 
-##Contacts
+# Screenshots
+<img src = "./assets/pic1.png">
+<img src = "./assets/pic 2.png">
 
-Email           : lewis.mati@student.moringaschool.com
+## Support
+
+For support, lewis.mati@student.moringaschool.com
 
 
-##Licence
+## Authors
 
-copyright (c) 2022   [click to view licence](https://github.com/MatiMoringa/Independent-project-1)
+- [LewisMati]([https://github.com/MatiMoringa/Independent-project-1)
+
+## Feedback
+
+If you have any feedback, please reach out to us lewis.mati@student.moringaschool.com
+
+
+
+## Licence
+
+[MIT](https://choosealicense.com/licenses/mit/)Copyright (c) 2022 Lewis Mati.
 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files , to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
