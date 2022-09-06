@@ -1,35 +1,90 @@
-About My Project
+# Hi, I'm Lewis Mati
 
-Software Version
+## About Me
+I'm a student developer at Moringa School.
 
-v1.6.14
+# Description
 
+The project is about a simple test app that provides students instance questions and answers after taking test for any for easy revision .
 
-Project Description
-A Simple website for students of longisa high school, where they can practice questions online and receive their results immediately after they submit.
+*This is meant for students.
 
+*The app is fast and has  variety of revisions materials .
 
-How To Access Our Site
+*Its not age restricted
+
+##How To Access Our Site
+
 It's just simple how to access our site, all you need to have is just an internet connection, a browser and you are good to go. access our site and do your online questions and answers ,so excellent for self test practices .
 
 
-Technology used
-Html - was used to create the interface of the web page
-Css - was used to style up the web page
-javascript - used to make page more interactive
+## Appendix
+
+The app runs on a single HTML ,CSS and JS file.
+
+It is free,so no charges will apply when using the app.
+
+it is also user friendly as it is not complicated to use,and is easy to access recipes according to one's requirements.
+
+## Running Tests
+
+To run tests, run the following command
+
+```bash
+  npm run test
+
+```
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm run deploy
+```
 
 
-contacts
-Made by    : LewisMati
-Mobile No  : 0708610553
+
+## Used By
+
+This project is used by the following:
+
+- Moringa School.
+
+
+
+## Contributing
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+Please adhere to this project's `code of conduct`.
+
+## Tech Stack
+
+* HTML
+
+* CSS
+
+* JAVASCRIPT
+
+##Contacts
+
 Email           : lewis.mati@student.moringaschool.com
 
 
-licence
+##Licence
+
 copyright (c) 2022   [click to view licence](https://github.com/MatiMoringa/Independent-project-1)
 
 
-Heroku
-login   [Click to View my design](https://remotequiz.herokuapp.com/)
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files , to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
 
 
