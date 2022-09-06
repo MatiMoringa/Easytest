@@ -1,21 +1,23 @@
 {
-  "name": "independent-project-1",
+  "name": "Easytest",
   "version": "1.0.0",
-  "description": "About My Project",
-  "main": "script.js",
+  "description": "The project is about a recipe app that provides recipes for any type of meal one is trying to make from home instead of ordering them from hotels or anywhere.",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b master -d build",
+    "test": "codeship"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MatiMoringa/Independent-project-1.git"
+    "url": "Easytest"
   },
   "author": "lewis",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MatiMoringa/Independent-project-1/issues"
+    "url": "https://github.com/MatiMoringa/Easytest"
   },
-  "homepage": "https://github.com/MatiMoringa/Independent-project-1#readme",
+  "homepage": "Easytest",
   "dependencies": {
     "gh-pages": "^4.0.0"
   }
