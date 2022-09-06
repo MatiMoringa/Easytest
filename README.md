@@ -70,8 +70,9 @@ Please adhere to this project's `code of conduct`.
 * JAVASCRIPT
 
 # Screenshots
-<img src = "./assets/pic1.png">
-<img src = "./assets/pic 2.png">
+<img src = "./assets/pc.webp">
+<img src = "./assets/pc1.png">
+<img src = "./assets/pc2.png">
 
 ## Support
 
