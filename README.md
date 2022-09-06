@@ -5,7 +5,7 @@ I'm a student developer at Moringa School.
 
 # Description
 
-The project is about a simple test app that provides students instance questions and answers after taking test for any for easy revision .
+The project is about a simple test app that provides students with instance questions and answers after taking test to enhance easy revision .
 
 *This is meant for students.
 
