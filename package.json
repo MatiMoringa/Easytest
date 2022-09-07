@@ -3,10 +3,7 @@
   "version": "1.0.0",
   "description": "The project is about a recipe app that provides recipes for any type of meal one is trying to make from home instead of ordering them from hotels or anywhere.",
   "main": "index.js",
-  "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
-    "test": "codeship"
+  "scripts": { "test": "codeship"
   },
   "repository": {
     "type": "git",
@@ -14,14 +11,8 @@
   },
   "author": "lewis",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/MatiMoringa/Easytest"
-  },
-  "homepage": "Easytest",
-  "dependencies": {
-    "gh-pages": "^4.0.0"
-  }
-  {
+},
+
   "routes": [
     { "handle": "filesystem" },
     { "src": "/(.*)", "status": 404, "dest": "/other-404.html" }
