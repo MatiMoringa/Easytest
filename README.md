@@ -4,7 +4,7 @@
 I'm a student developer at Moringa School.
 # Easytest
 
-[Easytest](https://MatiMoringa.github.io/Easytest/)
+[Easytest](https://github.com/MatiMoringa/Easytest/deployments/activity_log?environment=github-pages)
 
 # Description
 
